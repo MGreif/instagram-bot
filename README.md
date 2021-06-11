@@ -1,3 +1,5 @@
+# Deprecated due to the use of a deprecated API
+
 ## Dependencies 
 
 - instagram-web-api
